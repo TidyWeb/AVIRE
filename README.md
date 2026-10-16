@@ -1,6 +1,6 @@
 # AVIRE
 
-## [🌐 Open the live site: https://tidyweb.github.io/AVIRE/ ↗](https://tidyweb.github.io/AVIRE/)
+### [Visit the live site ↗](https://tidyweb.github.io/AVIRE/)
 
 
 Live site:
